@@ -1,4 +1,4 @@
-import { Sum } from "./components/Sum";
+import { Sum } from './components/Sum';
 
 function App() {
   return (
